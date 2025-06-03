@@ -1,6 +1,6 @@
 +++
 date = '2025-06-02T18:22:38-05:00'
-draft = true
+draft = false
 title = 'cool projects'
 summary = 'political bias and more projects ...'
 +++

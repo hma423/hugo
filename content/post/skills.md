@@ -1,6 +1,6 @@
 +++
 date = '2024-06-02T18:28:58-05:00'
-draft = true
+draft = false
 title = 'Skills'
 summary ='my super secret skillset'
 +++

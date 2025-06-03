@@ -1,6 +1,6 @@
 +++
 date = '2025-06-02T18:28:02-05:00'
-draft = true
+draft = false
 title = 'Experiences'
 summary = "my relevant experiences, click for more!"
 +++

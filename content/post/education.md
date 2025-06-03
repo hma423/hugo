@@ -1,6 +1,6 @@
 +++
 date = '2025-06-02T18:28:33-05:00'
-draft = true
+draft = false
 title = 'Education'
 summary = "my lovely education"
 +++

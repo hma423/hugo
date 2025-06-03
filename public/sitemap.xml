@@ -2,11 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/post/education/</loc>
+    <lastmod>2025-06-02T18:28:33-05:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2025-06-02T18:28:33-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/</loc>
     <lastmod>2025-06-02T18:28:33-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/experiences/</loc>
+    <lastmod>2025-06-02T18:28:02-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/title_of_the_post/</loc>
+    <lastmod>2025-06-02T18:22:38-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/skills/</loc>
+    <lastmod>2024-06-02T18:28:58-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
