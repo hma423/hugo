@@ -11,3 +11,8 @@ favicon = "/images/github.png"
 headerIcon = "/images/webcamtest1.jpg"
 location = "Bay Area"
 enableSearch = false
+
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
