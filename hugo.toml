@@ -1,0 +1,13 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My Hugo Site"
+theme = "github-style"
+
+
+[params]
+author = "Henry Ma"
+github = "hma423"
+favicon = "/images/github.png"
+headerIcon = "/images/webcamtest1.jpg"
+location = "Bay Area"
+enableSearch = false
